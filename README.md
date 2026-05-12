@@ -1,6 +1,7 @@
 # schulich_data_science
 This repository contains my coursework, projects, and labs from the Foundations of Data Science &amp; Statistical Learning course at the Schulich School of Business. The content bridges the gap between theoretical statistics and practical machine learning implementation using Python.
-🚀 Repository Highlights
+
+## 🚀 Repository Highlights
 End-to-End EDA: Comprehensive Exploratory Data Analysis including data cleaning, handling missing values, and feature scaling.
 
 Statistical Inference: Implementations of hypothesis testing (A/B testing, ANOVA, Chi-squared) to drive data-informed decisions.
@@ -9,14 +10,14 @@ Machine Learning Pipeline: Modular code for both Regression and Classification t
 
 Advanced Feature Engineering: Techniques in dimensionality reduction, variable transformation, and synthetic oversampling (SMOTE) for imbalanced datasets.
 
-🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 Language: Python
 
 Libraries: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn
 
 Environments: Jupyter Notebooks, Google Colab
 
-📚 Curriculum Coverage
+## 📚 Curriculum Coverage
 The repository is organized by the following key modules:
 
 Exploratory Data Analysis & Cleaning: Measures of central tendency, dispersion, and data preprocessing.
@@ -29,7 +30,7 @@ Supervised Learning - Classification: Logistic Regression, Naive Bayes, K-Neares
 
 Model Evaluation: Performance metrics including AUC-ROC curves, Confusion Matrices, F1-Score, and Cross-Validation.
 
-📊 Key Projects
+## 📊 Key Projects
 
 Midterm Assessment: A comprehensive review of statistical fundamentals and experimental design.
 
